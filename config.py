@@ -1,0 +1,5 @@
+GLEARNING_RATE = 0.0002
+DLEARNING_RATE = 0.0002
+EPOCHS = 1
+data_path = 'data/'
+BATCH_SIZE = 4
